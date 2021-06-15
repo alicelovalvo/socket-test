@@ -1,1 +1,1 @@
-# socket-test-ad-hoc
+# socket-test
